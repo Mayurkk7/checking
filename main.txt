@@ -1,1 +1,2 @@
 commit A from github editor
+commit B from github editor

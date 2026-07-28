@@ -3,4 +3,6 @@ commit B from github editor
 commit C from github editor
 commit F from github editor
 commit G from github editor
+commit D from vscode
+commit E from vscode
 commit H from github editor
